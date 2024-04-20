@@ -14,3 +14,5 @@ The hsafx framework is derived Holt Software Associates' original package, which
 
 Here's another version based on Holt Software Associates' and my original work, that still uses the Swing framework: https://github.com/salamander2/HSA2
 
+## Presentations
+A version of this work was presented at CEMC 2012 at the University of Waterloo
